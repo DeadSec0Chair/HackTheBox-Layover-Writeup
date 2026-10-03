@@ -412,7 +412,7 @@ If you spot any errors or have suggestions for improvement, feel free to reach o
 
 ---
 
-**Written by:** [Your Name]
+**Written by:** [DeadSec] 
 **Date:** 2026-10-03
 
 ---
