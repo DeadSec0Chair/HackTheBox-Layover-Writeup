@@ -1,4 +1,4 @@
-![HTB Layover Machine](https://raw.githubusercontent.com/DeadSec0Chair/HTB-Layover-Writeup/main/a2cc2776-5507-42ae-b9d0-3346ff823ce7-1789977190.png)
+![HTB Layover Machine]([https://raw.githubusercontent.com/DeadSec0Chair/HTB-Layover-Writeup/main/a2cc2776-5507-42ae-b9d0-3346ff823ce7-1789977190.png](https://raw.githubusercontent.com/DeadSec0Chair/HackTheBox-Layover-Writeup/refs/heads/main/a2cc2776-5507-42ae-b9d0-3346ff823ce7-1789977190.png))
 # HTB Layover — Writeup
 
 **Machine:** Layover
