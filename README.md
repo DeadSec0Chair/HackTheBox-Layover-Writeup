@@ -386,9 +386,14 @@ CVE-2026-34990  | CUPS Local Privilege Escalation | cupsd 2.4.16
 
 ## References
 
-- Craft CMS Documentation: https://craftcms.com/docs
-- CVE-2026-34990 Details: https://nvd.nist.gov/vuln/detail/CVE-2026-34990
-- HTB Layover Machine: https://app.hackthebox.com/machines/Layover
+## References
+
+- [Craft CMS Documentation](https://craftcms.com/docs)
+- [CVE-2026-34990 (CUPS LPE)](https://nvd.nist.gov/vuln/detail/CVE-2026-34990)
+- [CVE-2026-31857 (Craft CMS RCE)](https://nvd.nist.gov/vuln/detail/CVE-2026-31857)
+- [Craft CMS RCE Advisory](https://github.com/craftcms/cms/security/advisories/GHSA-fp5j-j7j4-mcxc)
+- [CUPS Exploit Writeup](https://heyitsas.im/posts/cups/)
+- [HTB Layover Machine](https://app.hackthebox.com/machines/Layover)
 
 ---
 
